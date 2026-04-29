@@ -28,5 +28,3 @@ I am **Sujyot Bhandare**, a Computer Engineering student at MESWCOE, Pune, with 
 ![](https://streak-stats.demolab.com/?user=Sujyot05&theme=default&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sujyot05&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Sujyot05&icon=0&color=11)](https://visitcount.itsvg.in)
