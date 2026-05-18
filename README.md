@@ -13,6 +13,7 @@ I am **Sujyot Bhandare**, a Computer Engineering student at MESWCOE, Pune, with 
 ### Featured Projects
 - **Hospital Management System:** A full-stack solution integrating RFID for streamlined digital healthcare.
 - **A pos machine to issue and update aadhar card:** A Pos machine made using Raspberry pi 4 For aadhar update and issuing by minimizing the use of bulky devices.
+- **Secure Storage Folder(Website):** A secure website based storage that help user to store small data and file using own server or cloud servers.
 
 ### Connect with Me
 - **LinkedIn:** [linkedin.com/in/sujyot-bhandare](https://www.linkedin.com/in/sujyot-bhandare)
